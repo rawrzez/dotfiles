@@ -1,0 +1,9 @@
+{{ if eq .chezmoi.os "linux" -}}
+#!/bin/sh
+
+sudo apt update
+sudo apt-get install zsh -y
+
+{{ else if eq .chezmoi.os "darwin" -}}
+
+{{ end -}}
