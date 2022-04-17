@@ -1,0 +1,4 @@
+install.sh
+README.md
+.oh-my-zsh/custom/themes/**/*.zwc
+.oh-my-zsh/cache/**/*
