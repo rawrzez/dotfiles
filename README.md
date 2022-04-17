@@ -1,2 +1,3 @@
 # dotfiles
-dotfiles
+- zsh
+- p10k
